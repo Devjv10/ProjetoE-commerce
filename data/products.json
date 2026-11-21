@@ -1,0 +1,158 @@
+[
+  {
+    "_id": "p01",
+    "nome": "Notebook Aurora 14",
+    "marca": "Aurora",
+    "categoria": "Computadores",
+    "preco_centavos": 429900,
+    "imagem": "assets/p01.svg",
+    "descricao": "Notebook Aurora 14: tecnologia para simplificar seu dia. Produto fictício para demonstração acadêmica.",
+    "especificacoes": {
+      "RAM": "16 GB",
+      "SSD": "512 GB"
+    }
+  },
+  {
+    "_id": "p02",
+    "nome": "Notebook Prisma Pro",
+    "marca": "Prisma",
+    "categoria": "Computadores",
+    "preco_centavos": 589900,
+    "imagem": "assets/p02.svg",
+    "descricao": "Notebook Prisma Pro: tecnologia para simplificar seu dia. Produto fictício para demonstração acadêmica.",
+    "especificacoes": {
+      "RAM": "32 GB",
+      "SSD": "1 TB"
+    }
+  },
+  {
+    "_id": "p03",
+    "nome": "Monitor Lumina 27",
+    "marca": "Lumina",
+    "categoria": "Monitores",
+    "preco_centavos": 139900,
+    "imagem": "assets/p03.svg",
+    "descricao": "Monitor Lumina 27: tecnologia para simplificar seu dia. Produto fictício para demonstração acadêmica.",
+    "especificacoes": {
+      "Tela": "27 polegadas",
+      "Resolução": "QHD"
+    }
+  },
+  {
+    "_id": "p04",
+    "nome": "Monitor Aurora 24",
+    "marca": "Aurora",
+    "categoria": "Monitores",
+    "preco_centavos": 89900,
+    "imagem": "assets/p04.svg",
+    "descricao": "Monitor Aurora 24: tecnologia para simplificar seu dia. Produto fictício para demonstração acadêmica.",
+    "especificacoes": {
+      "Tela": "24 polegadas",
+      "Resolução": "Full HD"
+    }
+  },
+  {
+    "_id": "p05",
+    "nome": "Teclado Mecânico Pulse",
+    "marca": "Pulse",
+    "categoria": "Periféricos",
+    "preco_centavos": 34990,
+    "imagem": "assets/p05.svg",
+    "descricao": "Teclado Mecânico Pulse: tecnologia para simplificar seu dia. Produto fictício para demonstração acadêmica.",
+    "especificacoes": {
+      "Conexão": "USB-C",
+      "Layout": "ABNT2"
+    }
+  },
+  {
+    "_id": "p06",
+    "nome": "Mouse Prisma Air",
+    "marca": "Prisma",
+    "categoria": "Periféricos",
+    "preco_centavos": 18990,
+    "imagem": "assets/p06.svg",
+    "descricao": "Mouse Prisma Air: tecnologia para simplificar seu dia. Produto fictício para demonstração acadêmica.",
+    "especificacoes": {
+      "Sensor": "12000 DPI",
+      "Conexão": "Sem fio"
+    }
+  },
+  {
+    "_id": "p07",
+    "nome": "Headphone Sonora Max",
+    "marca": "Sonora",
+    "categoria": "Áudio",
+    "preco_centavos": 59990,
+    "imagem": "assets/p07.svg",
+    "descricao": "Headphone Sonora Max: tecnologia para simplificar seu dia. Produto fictício para demonstração acadêmica.",
+    "especificacoes": {
+      "Bateria": "40 horas",
+      "Conexão": "Bluetooth"
+    }
+  },
+  {
+    "_id": "p08",
+    "nome": "Caixa de Som Pulse Mini",
+    "marca": "Pulse",
+    "categoria": "Áudio",
+    "preco_centavos": 24990,
+    "imagem": "assets/p08.svg",
+    "descricao": "Caixa de Som Pulse Mini: tecnologia para simplificar seu dia. Produto fictício para demonstração acadêmica.",
+    "especificacoes": {
+      "Bateria": "12 horas",
+      "Potência": "20 W"
+    }
+  },
+  {
+    "_id": "p09",
+    "nome": "Smartphone Aurora X",
+    "marca": "Aurora",
+    "categoria": "Smartphones",
+    "preco_centavos": 279900,
+    "imagem": "assets/p09.svg",
+    "descricao": "Smartphone Aurora X: tecnologia para simplificar seu dia. Produto fictício para demonstração acadêmica.",
+    "especificacoes": {
+      "Memória": "256 GB",
+      "Tela": "6,5 polegadas"
+    }
+  },
+  {
+    "_id": "p10",
+    "nome": "Smartphone Prisma Lite",
+    "marca": "Prisma",
+    "categoria": "Smartphones",
+    "preco_centavos": 159900,
+    "imagem": "assets/p10.svg",
+    "descricao": "Smartphone Prisma Lite: tecnologia para simplificar seu dia. Produto fictício para demonstração acadêmica.",
+    "especificacoes": {
+      "Memória": "128 GB",
+      "Tela": "6,2 polegadas"
+    }
+  },
+  {
+    "_id": "p11",
+    "nome": "Tablet Lumina Go",
+    "marca": "Lumina",
+    "categoria": "Tablets",
+    "preco_centavos": 189900,
+    "imagem": "assets/p11.svg",
+    "descricao": "Tablet Lumina Go: tecnologia para simplificar seu dia. Produto fictício para demonstração acadêmica.",
+    "especificacoes": {
+      "Memória": "128 GB",
+      "Tela": "10,5 polegadas"
+    }
+  },
+  {
+    "_id": "p12",
+    "nome": "Tablet Aurora Studio",
+    "marca": "Aurora",
+    "categoria": "Tablets",
+    "preco_centavos": 329900,
+    "imagem": "assets/p12.svg",
+    "descricao": "Tablet Aurora Studio: tecnologia para simplificar seu dia. Produto fictício para demonstração acadêmica.",
+    "especificacoes": {
+      "Memória": "256 GB",
+      "Tela": "12 polegadas"
+    }
+  }
+]
